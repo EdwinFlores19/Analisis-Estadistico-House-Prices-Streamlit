@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="691ff7ed-3bbd-411a-ac3a-b989622f3afb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tarea_Streamlit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pagina_Principal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house-price-parquet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Analisis_Exploratorio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Prediccion_de_Precio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Segmentacion_de_Viviendas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="691ff7ed-3bbd-411a-ac3a-b989622f3afb" name="Changes" comment="Primer Commit de Analisis Estadistico de precios de casas usando Streamlit">
+      <change afterPath="$PROJECT_DIR$/pages/Analisis_de_Caracteristicas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Clasificacion_de_Precio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Comparacion_de_Modelos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Deteccion_de_Outliers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Simulacion_de_Escenarios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pagina_Principal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina_Principal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EdwinFlores19"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EdwinFlores19/Analisis-Estadistico-House-Prices-Streamlit",
+    "accountId": "d6d86693-4d69-43fd-b44b-392770b9ab4b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -74,6 +81,68 @@
       <option name="presentableId" value="Default" />
       <updated>1755746390463</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer Commit de Analisis Estadistico de precios de casas usando Streamlit">
+      <option name="closed" value="true" />
+      <created>1755751193663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755751193663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer Commit de Analisis Estadistico de precios de casas usando Streamlit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer Commit de Analisis Estadistico de precios de casas usando Streamlit" />
   </component>
 </project>
